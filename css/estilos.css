@@ -67,11 +67,15 @@ body
     width: 100%;
     padding: 8px;
     cursor: pointer;
-    margin-bottom: 90px;
+    margin-bottom: 10px;
     border: 1px solid whitesmoke;
     border-radius: 20px;
     background-color: #3488ee;
     color: white;
+}
+.consult p
+{
+    color: black;
 }
 .imagen-final
 {
