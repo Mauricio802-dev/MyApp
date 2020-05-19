@@ -9,8 +9,5 @@ var login = function()
 }
 var borrar = function()
  {
-    var email = document.getElementById("email").value;
-    var passw = document.getElementById("passw").value;
-
-    console.clear();
+     console.clear();
  }
